@@ -3,7 +3,7 @@
 
 # 챌린지 1회차 코딩 결과물
 
-<img src = "/img/challengeday_1.png width="50%" height="50%" >  
+<img src = "/img/challengeday_1.png" width="50%" height="50%" >  
 
 시멘틱, form,input tag의 사용
 
